@@ -11,7 +11,7 @@ npm: `--before` from `minimumReleaseAge` produces a phantom `ERESOLVE` ("Found: 
 
 ## Current behavior
 
-The update branch gets an "Artifact update problem" and a red `renovate/artifacts` status:
+Renovate 44.116.1 (CLI, npm 11.19.0) opens [#1](https://github.com/Moshe1010/renovate-repro-46375/pull/1) with an "Artifact update problem" and a red `renovate/artifacts` status:
 
 ```
 npm error code ERESOLVE
