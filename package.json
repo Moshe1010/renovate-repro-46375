@@ -1,0 +1,9 @@
+{
+  "name": "renovate-repro-46375",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "@tailwindcss/vite": "4.3.2",
+    "vite": "^8.3.0"
+  }
+}
